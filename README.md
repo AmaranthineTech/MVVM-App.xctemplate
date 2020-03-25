@@ -11,6 +11,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE._
 
 ## Link to the blog article.
+https://arunpatwardhan.com/2020/03/25/creating-custom-templates-for-ios-app-development/
 
 ## Requirements
 - You should have Xcode installed.
